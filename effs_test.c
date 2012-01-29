@@ -1,4 +1,6 @@
 /*
+Using the project to test various software configuration systems.
+
 File: effs_test.c
 Group Name: ExtremelyFastFiskSystem
 Members: Erik Afable, Jamie Lai, Nazma Panjwani & James Xiang
