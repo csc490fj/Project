@@ -36,6 +36,8 @@ static int* i_read_buffer;
 static int char_read_length;
 static int int_read_length;
 
+// testing auto merge
+
 int parsecmd(char msg[]) {
 	char delims[] = " ";
 	char* result = NULL;
