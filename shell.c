@@ -1,9 +1,4 @@
 /*
-This is a comment
-This is another comment
-Resolve me!
-Test
-OK!
 File: shell.c
 Group Name: FastFisky
 Members: Erik Afable, Jamie Lai, Nazma Panjwani & James Xiang
@@ -22,8 +17,6 @@ Assignment 3 Part 2
 #include <signal.h>
 #include <termios.h>
 
-// testing auto merge
-
 #define FISK_SIZE 1000
 #define BUFFER_SIZE 20000
 
@@ -37,8 +30,6 @@ static char* c_read_buffer;
 static int* i_read_buffer;
 static int char_read_length;
 static int int_read_length;
-
-// testing auto merge
 
 int parsecmd(char msg[]) {
 	char delims[] = " ";
