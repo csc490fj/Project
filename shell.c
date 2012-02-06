@@ -22,6 +22,8 @@ Assignment 3 Part 2
 #include <signal.h>
 #include <termios.h>
 
+// testing auto merge
+
 #define FISK_SIZE 1000
 #define BUFFER_SIZE 20000
 
